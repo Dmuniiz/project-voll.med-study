@@ -2,7 +2,7 @@
 
 Essa é uma pequena parte do projeto que desenvolvendo seguindo o passo a passo do ótimo professor [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) através da plataforma [Alura](https://www.alura.com.br). Estamos explorando todo ecossistema do Spring Framework, como por exemplo: Data, Security, Web, AuthO, etc.
 
-Para tentar colocar em prática, segue esse link de um repositório para visualizar quais são os projetos/pequenos exercícios que estou fazendo.
+Para tentar colocar em prática, segue esse link de um repositório para visualizar quais são os projetos/pequenos exercícios que estou fazendo -> **[Prática](https://github.com/Dmuniiz/practicing-security)**
 
 ****
 
