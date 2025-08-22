@@ -20,8 +20,10 @@ Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o
 - [x] CRUD de pacientes;
 - [x] Autenticação e Autorização com Toke JWT
 - [x] Implementação de boas práticas de Segurança
-- [ ] Agendamento de consultas(em breve);
-- [ ] Cancelamento de consultas(em breve);
+- [X] Agendamento de consultas
+- [X] Cancelamento de consultas
+- [] Refatoração
+- [] Testes 
 
 ---
 
